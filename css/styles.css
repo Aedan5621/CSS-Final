@@ -69,13 +69,13 @@ img {
 
 .top-cloud {
   position: absolute;
-  right: 200px;
+  right: 100px;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 200px;
+  left: 100px;
   bottom: 300px;
 }
 
